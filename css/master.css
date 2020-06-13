@@ -97,6 +97,17 @@ body {
 	opacity: 0;
 }
 
+.imagenes{
+	width: 350px;
+	height: 200px;
+}
+
+@media only screen and (max-width:773px ){
+	.imagenes{
+		width: 200px;
+		height: 150px;
+	}
+}
 .contenido{
 	margin: auto;
 	width: 60%;
