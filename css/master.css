@@ -98,8 +98,8 @@ body {
 }
 
 .imagenes{
-	width: 350px;
-	height: 200px;
+	width: 500px;
+	height: 300px;
 }
 
 @media only screen and (max-width:773px ){
@@ -110,7 +110,7 @@ body {
 }
 .contenido{
 	margin: auto;
-	width: 60%;
+	width: 50%;
 	height: 45%;
 	background: white;
 	border-radius: 10px;
