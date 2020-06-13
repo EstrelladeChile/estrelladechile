@@ -100,11 +100,16 @@ body {
 .contenido{
 	margin: auto;
 	width: 60%;
-	height: 70%;
+	height: 45%;
 	background: white;
 	border-radius: 10px;
 }
-
+@media only screen and (max-width:773px ){
+	.contenido{
+		width: 80%;
+		height: 45%;
+	}
+}
 #cerrar {
 	display:none;	
 }
